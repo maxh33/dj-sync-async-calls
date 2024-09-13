@@ -1,4 +1,6 @@
-**Description:** A Django project demonstrating the use of asynchronous and synchronous views. This project includes examples of making HTTP requests using both async and sync methods, showcasing how to handle non-blocking and blocking HTTP requests in Django.
+**Description:** 
+
+A Django project demonstrating the use of asynchronous and synchronous views. This project includes examples of making HTTP requests using both async and sync methods, showcasing how to handle non-blocking and blocking HTTP requests in Django.
 
 **Features:**
 
